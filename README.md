@@ -1,5 +1,5 @@
 # Desafio
-Primeiro desafio para criação de uma Landing Page, para uma empresa de arquitetura, do curso de tecnologia da Escola DNC.
+Primeiro desafio de criação de uma Landing Page, para uma empresa de arquitetura, do curso de tecnologia da Escola DNC.
 
 Link do site disponibilizado: https://desafioarquiteturaa.netlify.app/
 
