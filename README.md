@@ -1,2 +1,2 @@
 # Desafio1
-Desafio de criação de landing page para uma empresa de arquitetura
+Primeiro desafio para criação de uma Landing Page, para uma empresa de arquitetura, do curso de tecnologia da Escola DNC.
